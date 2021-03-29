@@ -1,0 +1,13 @@
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.exe
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.deps.json
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.runtimeconfig.json
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.runtimeconfig.dev.json
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.dll
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\bin\Debug\netcoreapp3.1\01-HelloWord.pdb
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.csprojAssemblyReference.cache
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.AssemblyInfoInputs.cache
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.AssemblyInfo.cs
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.dll
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.pdb
+C:\Users\JUAN VILCHEZ\Desktop\Cursos Online\Desarrollo-con-ASP-Net\01.Fundamentos-de-C#-Net-Core\01-HelloWord\obj\Debug\netcoreapp3.1\01-HelloWord.genruntimeconfig.cache
